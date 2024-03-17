@@ -9,5 +9,7 @@ This is the official code release of "MMF-Track: Multi-modal Multi-level Fusion 
 
 ## Method
 
+![](https://github.com/LeoZhiheng/MMF-Tracker/blob/main/Picture/MMF-Track.png)
+
 ## Code
 Coming soon...
