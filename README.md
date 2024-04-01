@@ -1,4 +1,4 @@
-# MMF-Track: Multi-modal Multi-level Fusion for 3D Single Object Tracking (TIV 2023)
+## MMF-Track: Multi-modal Multi-level Fusion for 3D Single Object Tracking
 
 This is the official code release of "MMF-Track: Multi-modal Multi-level Fusion for 3D Single Object Tracking"
 
