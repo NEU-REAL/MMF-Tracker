@@ -11,6 +11,11 @@ This is the official code release of "MMF-Track: Multi-modal Multi-level Fusion 
 
 ![](https://github.com/LeoZhiheng/MMF-Tracker/blob/main/Picture/MMF-Track.png)
 
+
+## Code
+Coming soon...
+
+
 ## Acknowledgment
 - This repo is built upon [OpenPCDet](https://github.com/open-mmlab/OpenPCDet).
 - Thank [traveller59](https://github.com/traveller59) for his implementation of [Spconv](https://github.com/traveller59/spconv).
@@ -32,6 +37,3 @@ If you find the project useful for your research, you may cite,
   keywords={Three-dimensional displays;Target tracking;Geometry;Point cloud compression;Feature extraction;Object tracking;Transformers;3D single object tracking (SOT);multi-modal data fusion;transformer;siamese network},
   doi={10.1109/TIV.2023.3326790}}
 ```
-
-## Code
-Coming soon...
